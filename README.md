@@ -45,9 +45,7 @@ while True:
  ```
 # OUTPUT :
 # CLIENT OUTPUT :
-![Uploading client2.png…]()
-
-
+![client2](https://github.com/JeyaKrishnaSJ/EX-2/assets/118707091/01198342-44dd-48e7-bfed-9bdf54c9a1e9)
 
 # SERVER OUTPUT :
 ![server2](https://github.com/JeyaKrishnaSJ/EX-2/assets/118707091/8f498873-f50a-4bd9-b366-767427d67fd2)
